@@ -18,5 +18,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkhatri15&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![An image of @ayushkhatrii's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayushkhatrii)](https://holopin.io/@ayushkhatrii)
