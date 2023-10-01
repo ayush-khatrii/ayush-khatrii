@@ -10,7 +10,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayush.khatrii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-khatri-795461231) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/khatri_ayush15) 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+
+  <img src="https://skillicons.dev/icons?i=js,html,css,express,tailwind,vscode,react,git,github" />
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ayush-khatrii&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
