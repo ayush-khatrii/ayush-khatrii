@@ -4,7 +4,7 @@
 ## 💫 About Me:
 🚀 Visit My : [Portfolio](https://ayushkhatri.netlify.app)<br>⚛️ Currently learning React Js.<br>🔥 Interested in Full Stack Web Dev.<br>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![An image of @ayushkhatrii's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayushkhatrii)](https://holopin.io/@ayushkhatrii)
 
 ## 🌐 Socials:
 
@@ -24,4 +24,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-khatrii&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-[![An image of @ayushkhatrii's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayushkhatrii)](https://holopin.io/@ayushkhatrii)
