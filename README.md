@@ -7,6 +7,11 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🌐 Socials:
+
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/ayush.khatrii)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/ayushkhatrii/)
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/khatri_ayush15)
+  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayush.khatrii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-khatri-795461231) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/khatri_ayush15) 
 
 ## 💻 Tech Stack:
