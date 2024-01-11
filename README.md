@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Web+Developer+%E2%99%A5%EF%B8%8F" alt="Typing SVG" /></a>
 
 ## 💫 About Me:
-🚀 Visit My : [Portfolio](https://ayushkhatri.netlify.app)<br>⚛️ Currently learning React Js.<br>🔥 Interested in Full Stack Web Dev.<br>
+🚀 Visit My : [Portfolio](https://ayushkhatri.vercel.app)<br>⚛️ Currently learning React Js.<br>🔥 Interested in Full Stack Web Dev.<br>
 
 [![An image of @ayushkhatrii's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayushkhatrii)](https://holopin.io/@ayushkhatrii)
 
