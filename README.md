@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi myself <a href="https://www.instagram.com/ayush,khatrii/" target="_blank"> Ayush Khatri </a></h1>
+<h1 align="left">👋 Hi myself <a href="https://www.instagram.com/ayush,khatrii/" target="_blank"> Ayush Khatri </a></h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Web+Developer+%E2%99%A5%EF%B8%8F" alt="Typing SVG" /></a>
 
 ## 💫 About Me:
