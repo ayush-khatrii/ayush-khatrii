@@ -4,18 +4,13 @@
 ## 💫 About Me:
 🚀 Visit My : [Portfolio](https://ayushkhatri.vercel.app)<br>⚛️ Currently learning React Js.<br>🔥 Interested in Full Stack Web Dev.<br>
 
-[![An image of @ayushkhatrii's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayushkhatrii)](https://holopin.io/@ayushkhatrii)
-
 ## 🌐 Socials:
 
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/ayush.khatrii)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/ayushkhatrii/)
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/khatri_ayush15)
   
-
 ## 💻 Tech Stack:
-
-
   <img src="https://skillicons.dev/icons?i=js,html,css,express,tailwind,vscode,react,git,github" />
 
 ## 📊 GitHub Stats:
