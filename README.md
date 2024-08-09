@@ -1,22 +1,15 @@
-<h1 align="left">👋 Hi myself <a href="https://www.instagram.com/ayush,khatrii/" target="_blank"> Ayush Khatri </a></h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Web+Developer+%E2%99%A5%EF%B8%8F" alt="Typing SVG" /></a>
+# Hey There! 👋
+**I'm Ayush Khatri** - a Full Stack Web Developer with a strong focus on the **MERN stack, Next.js, and React.js**. I've created several projects that showcase my expertise in JavaScript, demonstrating my ability to build dynamic and responsive web applications. Passionate about learning and implementing new technologies.
+Passionate about learning new techs, creating new projects, building web apps that always impress.
 
-## 💫 About Me:
-🚀 Visit My : [Portfolio](https://ayushkhatri.vercel.app)<br>⚛️ Currently learning React Js.<br>🔥 Interested in Full Stack Web Dev.<br>
 
-![Snake animation](https://github.com/ayush-khatrii/ayush-khatrii/blob/output/github-contribution-grid-snake.svg)
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,nextjs,html,css,nodejs,tailwind,bootstrap,mongodb,expressjs,cpp,git,github,vscode,postman)](https://skillicons.dev)<br/>
 
-## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayushkhatrii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushkhatrii) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/khatri_ayush15) 
 
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/ayush.khatrii)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/ayushkhatrii/)
-[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/khatri_ayush15)
+<details>
+  <summary>Github Stats ⚡</summary>
   
-## 💻 Tech Stack:
-  <img src="https://skillicons.dev/icons?i=js,html,css,express,tailwind,vscode,react,git,github" />
-
-## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=ayush-khatrii&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-khatrii&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=ayush-khatrii&theme=github_dark&show_icons=true&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-khatrii&layout=compact&theme=github_dark&count_private=true&hide_border=true)</a>
+</details>
