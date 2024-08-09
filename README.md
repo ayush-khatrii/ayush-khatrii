@@ -1,6 +1,5 @@
 # Hey There! 👋
-**I'm Ayush Khatri** - a Full Stack Web Developer with a strong focus on the **MERN stack, Next.js, and React.js**. I've created several projects that showcase my expertise in JavaScript, demonstrating my ability to build dynamic and responsive web applications. Passionate about learning and implementing new technologies.
-Passionate about learning new techs, creating new projects, building web apps that always impress.
+**I'm Ayush Khatri** - a Full Stack Web Developer with a strong focus on the **MERN stack, Next.js, and React.js**. I've created several projects that showcase my expertise in JavaScript, demonstrating my ability to build dynamic and responsive web applications. Passionate about learning new techs, creating new projects, building web apps that always impress.
 
 
 [![SkillIcons](https://skillicons.dev/icons?i=js,ts,nextjs,html,css,nodejs,tailwind,bootstrap,mongodb,expressjs,cpp,git,github,vscode,postman)](https://skillicons.dev)<br/>
