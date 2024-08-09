@@ -4,7 +4,7 @@
 ## 💫 About Me:
 🚀 Visit My : [Portfolio](https://ayushkhatri.vercel.app)<br>⚛️ Currently learning React Js.<br>🔥 Interested in Full Stack Web Dev.<br>
 
-(https://github.com/ayush-khatrii/ayush-khatrii/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 ## 🌐 Socials:
 
