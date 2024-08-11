@@ -4,7 +4,7 @@
 
 [![SkillIcons](https://skillicons.dev/icons?i=js,ts,nextjs,html,css,nodejs,tailwind,bootstrap,mongodb,expressjs,cpp,git,github,vscode,postman)](https://skillicons.dev)<br/>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayushkhatrii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushkhatrii) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/khatri_ayush15) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayush.khatrii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushkhatrii) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/khatri_ayush15) 
 
 <details>
   <summary>Github Stats ⚡</summary>
