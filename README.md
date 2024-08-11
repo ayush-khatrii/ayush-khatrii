@@ -11,4 +11,5 @@
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=ayush-khatrii&theme=github_dark&show_icons=true&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-khatrii&layout=compact&theme=github_dark&count_private=true&hide_border=true)</a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ayush-khatrii&theme=github-dark-blue&hide_border=true&border_radius=0&card_width=500&card_height=250&hide_longest_streak=true" alt="GitHub Streak" /></a>
 </details>
