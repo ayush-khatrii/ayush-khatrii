@@ -2,24 +2,58 @@
 
 # A Y U S H &nbsp;&nbsp; K H A T R I
 
-`FULLSTACK DEVELOPER`
+**`FULLSTACK DEVELOPER`**
 
 A full-stack developer focused on building complete, production-ready web applications.
 Combining responsive interfaces, reliable backends, and clean data architecture.
 
 <br>
 
-[![Website](https://img.shields.io/badge/AYUSHKHATRI.IN-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://ayushkhatri.in)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushkhatrii)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/khatri_ayush15)
-[![Email](https://img.shields.io/badge/EMAIL-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:ayushkhatri.dev@gmail.com)
+
+<p align="left">
+  <kbd>
+    <a href="https://ayushkhatri.in">
+      <img
+        src="https://img.shields.io/badge/PORTFOLIO-111111?style=flat-square&logo=googlechrome&logoColor=white"
+        alt="Portfolio"
+      />
+    </a>
+  </kbd>
+  &nbsp;
+  <kbd>
+    <a href="https://linkedin.com/in/ayushkhatrii">
+      <img
+        src="https://img.shields.io/badge/LINKEDIN-111111?style=flat-square&logo=linkedin&logoColor=white"
+        alt="LinkedIn"
+      />
+    </a>
+  </kbd>
+  &nbsp;
+  <kbd>
+    <a href="https://x.com/khatri_ayush15">
+      <img
+        src="https://img.shields.io/badge/X-111111?style=flat-square&logo=x&logoColor=white"
+        alt="X"
+      />
+    </a>
+  </kbd>
+  &nbsp;
+  <kbd>
+    <a href="mailto:ayushkhatri.dev@gmail.com">
+      <img
+        src="https://img.shields.io/badge/EMAIL-111111?style=flat-square&logo=gmail&logoColor=white"
+        alt="Email"
+      />
+    </a>
+  </kbd>
+</p>
 
 </div>
 
-
+<br>
 <div align="left">
 
-**Languages**
+**`TECH STACK`**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
