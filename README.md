@@ -28,8 +28,6 @@ Combining responsive interfaces, reliable backends, and clean data architecture.
 ![C](https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-**Libraries & Frameworks**
-
 ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Zustand](https://img.shields.io/badge/Zustand-433E38.svg?style=for-the-badge&logo=zustand&logoColor=white)
@@ -41,14 +39,10 @@ Combining responsive interfaces, reliable backends, and clean data architecture.
 ![React Query](https://img.shields.io/badge/React_Query-FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=white)
 ![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-000000.svg?style=for-the-badge&logo=shadcnui&logoColor=white)
 
-**Databases & ORMs**
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=prisma&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-**Dev & Ops**
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
