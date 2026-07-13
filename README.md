@@ -1,8 +1,8 @@
+**`FULLSTACK DEVELOPER`**
 <div align="left">
 
-# A Y U S H &nbsp;&nbsp; K H A T R I
+# A Y U S H &nbsp;&nbsp;K H A T R I
 
-**`FULLSTACK DEVELOPER`**
 
 A full-stack developer focused on building complete, production-ready web applications.
 Combining responsive interfaces, reliable backends, and clean data architecture.
