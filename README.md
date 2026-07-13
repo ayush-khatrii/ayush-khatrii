@@ -1,13 +1,27 @@
-### **I'm Ayush Khatri | Full Stack Developer (MERN / Next.js)**
-Passionate about crafting dynamic, responsive, and user-centric web apps.
-Always learning, always building — one project at a time.
+<div align="center">
 
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,nextjs,html,css,nodejs,tailwind,bootstrap,mongodb,expressjs,cpp,git,github,vscode,postman)](https://skillicons.dev)<br/>
+# A Y U S H &nbsp;&nbsp; K H A T R I
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayush.khatrii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushkhatrii) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/khatri_ayush15) 
+`FULL-STACK DEVELOPER``
 
-<details>
-  <summary>Github Stats ⚡</summary>
-  
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ayush-khatrii&theme=dark" alt="GitHub Streak" /></a>
-</details>
+Building polished full-stack web products and engineering the dependable architectures behind them.<br>
+Bridging technical rigor with narrative flow and visual storytelling to craft intuitive user experiences.
+
+<br>
+
+[![Website](https://img.shields.io/badge/AYUSHKHATRI.IN-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://ayushkhatri.in)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushkhatrii)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/khatri_ayush15)
+[![Email](https://img.shields.io/badge/EMAIL-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:ayushkhatri.dev@gmail.com)
+
+</div>
+
+---
+
+```text
+stack/
+├─ languages               HTML · CSS · JavaScript · TypeScript · C/C++
+├─ libraries & frameworks  Next.js · React.js · Zustand · Hono.js · Express.js · Node.js · Tailwind CSS · Zod · React Query · ShadCN UI
+├─ databases & ORMs        PostgreSQL · MongoDB · Prisma · Redis
+└─ dev & ops tools         VS Code · Git/GitHub · Postman
+```
