@@ -84,3 +84,6 @@ Combining responsive interfaces, reliable backends, and clean data architecture.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
+
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ayush-khatrii&theme=dark&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
