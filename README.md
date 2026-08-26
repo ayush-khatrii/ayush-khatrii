@@ -86,4 +86,4 @@ Combining responsive interfaces, reliable backends, and clean data architecture.
 </div>
 
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ayush-khatrii&theme=dark&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=ayush-khatrii&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
