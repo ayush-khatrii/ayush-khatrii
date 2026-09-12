@@ -1,7 +1,7 @@
 **`FULLSTACK DEVELOPER`**
 <div align="left">
 
-# A Y U S H &nbsp;&nbsp;K H A T R I
+# AYUSH &nbsp;KHATRI
 
 
 A full-stack developer focused on building complete, production-ready web applications.
