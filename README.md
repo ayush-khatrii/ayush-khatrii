@@ -1,89 +1,143 @@
-**`FULLSTACK DEVELOPER`**
-<div align="left">
+<!-- HERO -->
 
-# AYUSH &nbsp;KHATRI
-
-
-A full-stack developer focused on building complete, production-ready web applications.
-Combining responsive interfaces, reliable backends, and clean data architecture.
-
-<br>
-
-
-<p align="left">
-  <kbd>
-    <a href="https://ayushkhatri.in">
-      <img
-        src="https://img.shields.io/badge/PORTFOLIO-111111?style=flat-square&logo=googlechrome&logoColor=white"
-        alt="Portfolio"
-      />
-    </a>
-  </kbd>
-  &nbsp;
-  <kbd>
-    <a href="https://linkedin.com/in/ayushkhatrii">
-      <img
-        src="https://img.shields.io/badge/LINKEDIN-111111?style=flat-square&logo=linkedin&logoColor=white"
-        alt="LinkedIn"
-      />
-    </a>
-  </kbd>
-  &nbsp;
-  <kbd>
-    <a href="https://x.com/khatri_ayush15">
-      <img
-        src="https://img.shields.io/badge/X-111111?style=flat-square&logo=x&logoColor=white"
-        alt="X"
-      />
-    </a>
-  </kbd>
-  &nbsp;
-  <kbd>
-    <a href="mailto:ayushkhatri.dev@gmail.com">
-      <img
-        src="https://img.shields.io/badge/EMAIL-111111?style=flat-square&logo=gmail&logoColor=white"
-        alt="Email"
-      />
-    </a>
-  </kbd>
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,45:4C1D95,100:0891B2&text=AYUSH%20KHATRI&fontSize=64&fontColor=FFFFFF&fontAlignY=38&desc=FULLSTACK%20DEVELOPER&descSize=17&descAlignY=58&animation=fadeIn"
+    alt="AYUSH KHATRI — FULLSTACK DEVELOPER"
+  />
 </p>
 
-</div>
+<p align="center">
+  <strong>A full-stack developer focused on building complete, production-ready web applications.</strong>
+  <br />
+  Combining responsive interfaces, reliable backends, and clean data architecture.
+</p>
 
-<br>
-<div align="left">
+<p align="center">
+  <a href="https://ayushkhatri.in">
+    <img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/ayushkhatrii">
+    <img src="https://img.shields.io/badge/LINKEDIN-1E1B2E?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/khatri_ayush15">
+    <img src="https://img.shields.io/badge/X-1E1B2E?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  &nbsp;
+  <a href="mailto:ayushkhatri.dev@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-1E1B2E?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email" />
+  </a>
+</p>
 
-**`TECH STACK`**
+<!-- TECH STACK -->
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <h3 align="center">TECH STACK</h3>
+      <table>
+        <tr>
+          <td><strong>Languages</strong></td>
+          <td>
+            <img src="https://img.shields.io/badge/HTML5-1E1B2E?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5">
+            <img src="https://img.shields.io/badge/CSS3-1E1B2E?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3">
+            <img src="https://img.shields.io/badge/JavaScript-1E1B2E?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+            <img src="https://img.shields.io/badge/TypeScript-1E1B2E?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript">
+            <img src="https://img.shields.io/badge/C-1E1B2E?style=flat-square&logo=c&logoColor=A8B9CC" alt="C">
+            <img src="https://img.shields.io/badge/C++-1E1B2E?style=flat-square&logo=cplusplus&logoColor=659AD2" alt="C++">
+          </td>
+        </tr>
+        <tr>
+          <td><strong>Frontend</strong></td>
+          <td>
+            <img src="https://img.shields.io/badge/Next.js-1E1B2E?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+            <img src="https://img.shields.io/badge/React.js-1E1B2E?style=flat-square&logo=react&logoColor=61DAFB" alt="React.js">
+            <img src="https://img.shields.io/badge/Tailwind_CSS-1E1B2E?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS">
+            <img src="https://img.shields.io/badge/ShadCN_UI-1E1B2E?style=flat-square&logo=shadcnui&logoColor=white" alt="ShadCN UI">
+          </td>
+        </tr>
+        <tr>
+          <td><strong>Backend</strong></td>
+          <td>
+            <img src="https://img.shields.io/badge/Node.js-1E1B2E?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js">
+            <img src="https://img.shields.io/badge/Express.js-1E1B2E?style=flat-square&logo=express&logoColor=white" alt="Express.js">
+            <img src="https://img.shields.io/badge/Hono.js-1E1B2E?style=flat-square&logo=hono&logoColor=E36002" alt="Hono.js">
+          </td>
+        </tr>
+        <tr>
+          <td><strong>State &amp; Validation</strong></td>
+          <td>
+            <img src="https://img.shields.io/badge/Zustand-1E1B2E?style=flat-square&logo=zustand&logoColor=D7B89C" alt="Zustand">
+            <img src="https://img.shields.io/badge/React_Query-1E1B2E?style=flat-square&logo=reactquery&logoColor=FF4154" alt="React Query">
+            <img src="https://img.shields.io/badge/Zod-1E1B2E?style=flat-square&logo=zod&logoColor=729BFF" alt="Zod">
+          </td>
+        </tr>
+        <tr>
+          <td><strong>Database &amp; ORM</strong></td>
+          <td>
+            <img src="https://img.shields.io/badge/PostgreSQL-1E1B2E?style=flat-square&logo=postgresql&logoColor=699ECA" alt="PostgreSQL">
+            <img src="https://img.shields.io/badge/MongoDB-1E1B2E?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB">
+            <img src="https://img.shields.io/badge/Prisma-1E1B2E?style=flat-square&logo=prisma&logoColor=white" alt="Prisma">
+            <img src="https://img.shields.io/badge/Redis-1E1B2E?style=flat-square&logo=redis&logoColor=FF4438" alt="Redis">
+          </td>
+        </tr>
+        <tr>
+          <td><strong>Developer Tools</strong></td>
+          <td>
+            <img src="https://img.shields.io/badge/VS_Code-1E1B2E?style=flat-square&logo=visualstudiocode&logoColor=007ACC" alt="VS Code">
+            <img src="https://img.shields.io/badge/Git-1E1B2E?style=flat-square&logo=git&logoColor=F05032" alt="Git">
+            <img src="https://img.shields.io/badge/GitHub-1E1B2E?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+            <img src="https://img.shields.io/badge/Postman-1E1B2E?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman">
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td width="35%" valign="top">
+      <h3 align="center">AI &amp; TOOLS</h3>
+      <table>
+        <tr>
+          <td><strong>AI Assistants</strong></td>
+          <td>
+            <img src="https://img.shields.io/badge/OpenAI-ChatGPT-6D28D9?style=flat-square&labelColor=1E1B2E" alt="ChatGPT">
+            <img src="https://img.shields.io/badge/Claude-6D28D9?style=flat-square&logo=claude&logoColor=white" alt="Claude">
+            <img src="https://img.shields.io/badge/Gemini-6D28D9?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini">
+          </td>
+        </tr>
+        <tr>
+          <td><strong>AI Coding Agents</strong></td>
+          <td>
+            <img src="https://img.shields.io/badge/OpenAI-Codex-6D28D9?style=flat-square&labelColor=1E1B2E" alt="Codex">
+            <img src="https://img.shields.io/badge/GitHub_Copilot-6D28D9?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot">
+            <img src="https://img.shields.io/badge/Claude_Code-6D28D9?style=flat-square&logo=claude&logoColor=white" alt="Claude Code">
+            <img src="https://img.shields.io/badge/Cursor-6D28D9?style=flat-square&logo=cursor&logoColor=white" alt="Cursor">
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
-![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Zustand](https://img.shields.io/badge/Zustand-433E38.svg?style=for-the-badge&logo=zustand&logoColor=white)
-![Hono.js](https://img.shields.io/badge/Hono.js-E36002.svg?style=for-the-badge&logo=hono&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1.svg?style=for-the-badge&logo=zod&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=white)
-![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-000000.svg?style=for-the-badge&logo=shadcnui&logoColor=white)
+<!-- GITHUB ACTIVITY -->
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=prisma&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+<h2 align="center">GITHUB ACTIVITY</h2>
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img
+      width="520"
+      src="https://streak-stats.demolab.com?user=ayush-khatrii&theme=dark&hide_border=false&border_radius=12&background=151322&border=5B21B6&stroke=312E45&ring=A78BFA&fire=22D3EE&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=94A3B8&date_format=M%20j%5B%2C%20Y%5D&card_width=520&card_height=180"
+      alt="GitHub Streak"
+    />
+  </a>
+</p>
 
-</div>
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ayush-khatrii&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:0F172A,45:4C1D95,100:0891B2"
+    alt=""
+  />
+</p>
