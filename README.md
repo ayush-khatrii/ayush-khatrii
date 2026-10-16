@@ -16,19 +16,19 @@
 
 <p align="center">
   <a href="https://ayushkhatri.in">
-    <img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-262626?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/ayushkhatrii">
-    <img src="https://img.shields.io/badge/LINKEDIN-1E1B2E?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-262626?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://x.com/khatri_ayush15">
-    <img src="https://img.shields.io/badge/X-1E1B2E?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    <img src="https://img.shields.io/badge/X-262626?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   &nbsp;
   <a href="mailto:ayushkhatri.dev@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-1E1B2E?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL-262626?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email" />
   </a>
 </p>
 
@@ -51,9 +51,9 @@
     </td>
     <td rowspan="3"><strong>AI Assistants</strong></td>
     <td rowspan="3">
-      <img src="https://img.shields.io/badge/ChatGPT-6D28D9?style=flat-square" alt="ChatGPT">
-      <img src="https://img.shields.io/badge/Claude-6D28D9?style=flat-square&logo=claude&logoColor=white" alt="Claude">
-      <img src="https://img.shields.io/badge/Gemini-6D28D9?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini">
+      <img src="https://img.shields.io/badge/ChatGPT-1E1B2E?style=flat-square" alt="ChatGPT">
+      <img src="https://img.shields.io/badge/Claude-1E1B2E?style=flat-square&logo=claude&logoColor=white" alt="Claude">
+      <img src="https://img.shields.io/badge/Gemini-1E1B2E?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini">
     </td>
   </tr>
   <tr>
@@ -82,10 +82,10 @@
     </td>
     <td rowspan="3"><strong>AI Coding Agents</strong></td>
     <td rowspan="3">
-      <img src="https://img.shields.io/badge/Codex-6D28D9?style=flat-square" alt="Codex">
-      <img src="https://img.shields.io/badge/GitHub_Copilot-6D28D9?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot">
-      <img src="https://img.shields.io/badge/Claude_Code-6D28D9?style=flat-square&logo=claude&logoColor=white" alt="Claude Code">
-      <img src="https://img.shields.io/badge/Cursor-6D28D9?style=flat-square&logo=cursor&logoColor=white" alt="Cursor">
+      <img src="https://img.shields.io/badge/Codex-1E1B2E?style=flat-square" alt="Codex">
+      <img src="https://img.shields.io/badge/GitHub_Copilot-1E1B2E?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot">
+      <img src="https://img.shields.io/badge/Claude_Code-1E1B2E?style=flat-square&logo=claude&logoColor=white" alt="Claude Code">
+      <img src="https://img.shields.io/badge/Cursor-1E1B2E?style=flat-square&logo=cursor&logoColor=white" alt="Cursor">
     </td>
   </tr>
   <tr>
