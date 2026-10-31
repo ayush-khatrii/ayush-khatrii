@@ -39,19 +39,21 @@
 
 <!-- TECH STACK -->
 
+<!-- TECH STACK -->
 
 ## 🛠️ Skills & Technologies
 
 <table width="100%">
 <tr>
-<td width="64%" valign="top">
+<td width="62%" valign="top">
+
 <table width="100%">
 <thead>
 <tr>
 <th colspan="2" align="left">
 ⚡ Tech Stack
 <br>
-<img src="https://placehold.co/570x1/0D1117/0D1117.png" width="570" height="1" alt="">
+<img src="https://placehold.co/340x1/0D1117/0D1117.png" width="340" height="1" alt="">
 </th>
 </tr>
 <tr>
@@ -86,16 +88,17 @@
 </tr>
 </tbody>
 </table>
+
 </td>
-<td width="2%">&nbsp;</td>
-<td width="34%" valign="top">
+<td width="38%" valign="top">
+
 <table width="100%">
 <thead>
 <tr>
 <th colspan="2" align="left">
 ✦ AI &amp; Tools
 <br>
-<img src="https://placehold.co/260x1/0D1117/0D1117.png" width="260" height="1" alt="">
+<img src="https://placehold.co/180x1/0D1117/0D1117.png" width="180" height="1" alt="">
 </th>
 </tr>
 <tr>
@@ -122,6 +125,7 @@
 </tr>
 </tbody>
 </table>
+
 </td>
 </tr>
 </table>
