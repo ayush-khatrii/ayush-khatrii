@@ -4,14 +4,14 @@
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0F172A,45:4C1D95,100:0891B2&text=AYUSH%20KHATRI&fontSize=64&fontColor=FFFFFF&fontAlignY=42&desc=FULL-STACK%20DEVELOPER&descSize=18&descAlignY=64&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0F172A,45:238636,100:3FB950&text=AYUSH%20KHATRI&fontSize=64&fontColor=FFFFFF&fontAlignY=42&desc=FULL-STACK%20DEVELOPER&descSize=18&descAlignY=64&animation=fadeIn"
     alt="Ayush Khatri — Full-Stack Developer"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&height=45&lines=Building+complete+web+applications.;From+responsive+UIs+to+reliable+APIs.;Turning+ideas+into+working+products."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1200&color=3FB950&center=true&vCenter=true&width=650&height=45&lines=Building+complete+web+applications.;From+responsive+UIs+to+reliable+APIs.;Turning+ideas+into+working+products."
     alt="Building complete web applications. From responsive UIs to reliable APIs."
   />
 </p>
@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://ayushkhatri.in">
-    <img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-3FB950?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/ayushkhatrii">
     <img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logoColor=white" alt="LinkedIn" />
@@ -135,19 +135,20 @@
 <h2 align="center">GITHUB ACTIVITY</h2>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img
-      width="520"
-      src="https://streak-stats.demolab.com?user=ayush-khatrii&theme=dark&hide_border=false&border_radius=12&background=151322&border=5B21B6&stroke=312E45&ring=A78BFA&fire=22D3EE&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=94A3B8&date_format=M%20j%5B%2C%20Y%5D&card_width=520&card_height=180"
-      alt="GitHub Streak"
-    />
-  </a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayush-khatrii&theme=github_dark" width="340" alt="github stats">
+&nbsp;
+<img src="https://streak-stats.demolab.com/?user=ayush-khatrii&background=0D1117&border=30363D&stroke=30363D&ring=3FB950&fire=22D3EE&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=3FB950&sideLabels=8B949E&dates=6E7681&date_format=%5BM%20j%2C%20Y%5D&card_width=494" width="494" alt="github streak">
+</p>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayush-khatrii&theme=github_dark" width="340" alt="languages by repository">
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayush-khatrii&theme=github_dark&utcOffset=5.5" width="340" alt="productive hours (IST)">
 </p>
 
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:0F172A,45:4C1D95,100:0891B2"
+    src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:0F172A,45:238636,100:0891B2"
     alt=""
   />
 </p>
