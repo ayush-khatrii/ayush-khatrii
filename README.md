@@ -132,47 +132,35 @@
 
 <!-- GITHUB ACTIVITY -->
 
-<h2 align="center">GITHUB ACTIVITY</h2>
+<!-- GITHUB ACTIVITY -->
 
-<!-- Full-width profile details -->
+## 📊 GitHub Activity
 
-<p align="center">
-  <img
-    width="100%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayush-khatrii&theme=github_dark&animation=sequence&duration=2&name=ayush.khatri"
-    alt="GitHub profile details"
-  />
-</p>
+<details>
+<summary><b>⚡ View GitHub Statistics</b></summary>
+<table width="100%">
+<tr>
+<td width="70%" align="center">
+<img src="https://ghstats.dev/api/langs?username=ayush-khatrii&amp;hide_border=true&amp;max_langs=12&amp;layout=horizontal_list" width="100%" alt="Top Languages">
+</td>
+<!-- <td width="33%" align="center">
+<img src="https://ghstats.dev/api/card?username=ayush-khatrii&hide_border=true&border_radius=0&size=compact" alt="GitHub Stats Card" />
+</td> -->
+<td width="30%" align="center">
+<img src="https://ghstats.dev/api/sparkline?username=ayush-khatrii&days=30&width=320&height=80&hide_border=true&border_radius=0&line_color=02b039" alt="Contribution Sparkline" />
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<img src="https://ghstats.dev/api/card?username=ayush-khatrii&show_ring=false&hide_border=true&border_radius=0" alt="GitHub Stats Card" />
+</td>
+<td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayush-khatrii&amp;theme=github_dark&amp;timeZone=Asia%2FKolkata" width="100%" alt="Productive Time">
+</td>
+</tr>
+</table>
+</details>
 
-<!-- Language cards -->
-
-<p align="center">
-  <img
-    width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayush-khatrii&theme=github_dark&animation=sequence&duration=2"
-    alt="Top languages by repository"
-  />
-  <img
-    width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayush-khatrii&theme=github_dark&animation=sequence&duration=2"
-    alt="Top languages by commits"
-  />
-</p>
-
-<!-- Stats and productive time -->
-
-<p align="center">
-  <img
-    width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayush-khatrii&theme=github_dark&animation=sequence&duration=2"
-    alt="GitHub stats"
-  />
-  <img
-    width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayush-khatrii&theme=github_dark&animation=sequence&duration=2&timeZone=Asia%2FKolkata"
-    alt="Commit activity by hour in Indian Standard Time"
-  />
-</p>
 
 <!-- FOOTER -->
 
