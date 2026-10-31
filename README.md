@@ -11,7 +11,7 @@
 <p align="center">
   <strong>A full-stack developer focused on building complete, production-ready web applications.</strong>
   <br />
-  Combining responsive interfaces, reliable backends, and clean data architecture.
+  Combining responsive interfaces and reliable backends
 </p>
 
 <p align="center">
