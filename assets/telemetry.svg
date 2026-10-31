@@ -11,16 +11,16 @@
 <text x="1170" y="36" fill="#8fb4ce" font-family="'DejaVu Sans Mono',ui-monospace,monospace" font-size="12" font-weight="500" text-anchor="end">GITHUB / PUBLIC</text>
 <line x1="28" y1="56" x2="1172" y2="56" stroke="#304862"/>
 <text x="30" y="84" fill="#89b4d0" font-family="'DejaVu Sans Mono',ui-monospace,monospace" font-size="12" font-weight="500">PUBLIC REPOSITORIES</text>
-<text x="30" y="121" fill="#f1f7ff" font-family="'DejaVu Sans',Arial,sans-serif" font-size="24" font-weight="700">—</text>
+<text x="30" y="121" fill="#f1f7ff" font-family="'DejaVu Sans',Arial,sans-serif" font-size="24" font-weight="700">48</text>
 <line x1="273" y1="75" x2="273" y2="131" stroke="#34516e"/>
 <text x="290" y="84" fill="#89b4d0" font-family="'DejaVu Sans Mono',ui-monospace,monospace" font-size="12" font-weight="500">FOLLOWERS</text>
-<text x="290" y="121" fill="#f1f7ff" font-family="'DejaVu Sans',Arial,sans-serif" font-size="24" font-weight="700">—</text>
+<text x="290" y="121" fill="#f1f7ff" font-family="'DejaVu Sans',Arial,sans-serif" font-size="24" font-weight="700">9</text>
 <line x1="503" y1="75" x2="503" y2="131" stroke="#34516e"/>
 <text x="520" y="84" fill="#89b4d0" font-family="'DejaVu Sans Mono',ui-monospace,monospace" font-size="12" font-weight="500">STARS RECEIVED</text>
-<text x="520" y="121" fill="#f1f7ff" font-family="'DejaVu Sans',Arial,sans-serif" font-size="24" font-weight="700">—</text>
+<text x="520" y="121" fill="#f1f7ff" font-family="'DejaVu Sans',Arial,sans-serif" font-size="24" font-weight="700">6</text>
 <line x1="753" y1="75" x2="753" y2="131" stroke="#34516e"/>
 <text x="770" y="84" fill="#89b4d0" font-family="'DejaVu Sans Mono',ui-monospace,monospace" font-size="12" font-weight="500">RECENTLY UPDATED</text>
-<text x="770" y="121" fill="#f1f7ff" font-family="'DejaVu Sans',Arial,sans-serif" font-size="21" font-weight="700">AWAITING FIRST SYNC</text>
+<text x="770" y="121" fill="#f1f7ff" font-family="'DejaVu Sans',Arial,sans-serif" font-size="21" font-weight="700">ayush-khatrii</text>
 <rect class="signal" x="30" y="145" width="1140" height="2" rx="1" fill="url(#line)" opacity="0.75"/>
 <circle class="beacon" cx="1015" cy="30" r="3.5" fill="#65f4c8"/>
 </svg>
