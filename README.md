@@ -160,14 +160,3 @@
 </tr>
 </table>
 </details>
-
-
-<!-- FOOTER -->
-
-<p align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:0F172A,45:238636,100:0891B2"
-    alt=""
-  />
-</p>
