@@ -1,6 +1,5 @@
 <!-- HERO -->
 
-
 <p align="center">
   <img
     width="100%"
@@ -17,27 +16,38 @@
 </p>
 
 <div align="center">
-  <strong>A full-stack developer focused on building complete, production-ready web applications.</strong>
+  <strong>
+    A full-stack developer focused on building complete, production-ready web applications.
+  </strong>
   <p>Combining responsive interfaces and reliable backends.</p>
 </div>
 
 <p align="center">
   <a href="https://ayushkhatri.in">
-    <img src="https://img.shields.io/badge/PORTFOLIO-3FB950?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img
+      src="https://img.shields.io/badge/PORTFOLIO-3FB950?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="Portfolio"
+    />
   </a>
   <a href="https://linkedin.com/in/ayushkhatrii">
-    <img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logoColor=white" alt="LinkedIn" />
+    <img
+      src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
   <a href="https://x.com/khatri_ayush15">
-    <img src="https://img.shields.io/badge/X-161B22?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    <img
+      src="https://img.shields.io/badge/X-161B22?style=for-the-badge&logo=x&logoColor=white"
+      alt="X"
+    />
   </a>
   <a href="mailto:ayushkhatri.dev@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email" />
+    <img
+      src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=22D3EE"
+      alt="Email"
+    />
   </a>
 </p>
-
-
-<!-- TECH STACK -->
 
 <!-- TECH STACK -->
 
@@ -45,16 +55,11 @@
 
 <table width="100%">
 <tr>
-<td width="62%" valign="top">
-
+<td width="64%" valign="top">
 <table width="100%">
 <thead>
 <tr>
-<th colspan="2" align="left">
-⚡ Tech Stack
-<br>
-<img src="https://placehold.co/340x1/0D1117/0D1117.png" width="340" height="1" alt="">
-</th>
+<th colspan="2" align="left">⚡ Tech Stack</th>
 </tr>
 <tr>
 <th align="left">Category</th>
@@ -88,18 +93,13 @@
 </tr>
 </tbody>
 </table>
-
 </td>
-<td width="38%" valign="top">
-
+<td width="2%">&nbsp;</td>
+<td width="34%" valign="top">
 <table width="100%">
 <thead>
 <tr>
-<th colspan="2" align="left">
-✦ AI &amp; Tools
-<br>
-<img src="https://placehold.co/180x1/0D1117/0D1117.png" width="180" height="1" alt="">
-</th>
+<th colspan="2" align="left">✦ AI &amp; Tools</th>
 </tr>
 <tr>
 <th align="left">AI Assistants</th>
@@ -125,25 +125,56 @@
 </tr>
 </tbody>
 </table>
-
 </td>
 </tr>
 </table>
+
 
 <!-- GITHUB ACTIVITY -->
 
 <h2 align="center">GITHUB ACTIVITY</h2>
 
+<!-- Full-width profile details -->
+
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayush-khatrii&theme=github_dark" width="340" alt="github stats">
-&nbsp;
-<img src="https://streak-stats.demolab.com/?user=ayush-khatrii&background=0D1117&border=30363D&stroke=30363D&ring=3FB950&fire=22D3EE&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=3FB950&sideLabels=8B949E&dates=6E7681&date_format=%5BM%20j%2C%20Y%5D&card_width=494" width="494" alt="github streak">
+  <img
+    width="100%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayush-khatrii&theme=github_dark&animation=sequence&duration=2&name=ayush.khatri"
+    alt="GitHub profile details"
+  />
 </p>
+
+<!-- Language cards -->
+
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayush-khatrii&theme=github_dark" width="340" alt="languages by repository">
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayush-khatrii&theme=github_dark&utcOffset=5.5" width="340" alt="productive hours (IST)">
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayush-khatrii&theme=github_dark&animation=sequence&duration=2"
+    alt="Top languages by repository"
+  />
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayush-khatrii&theme=github_dark&animation=sequence&duration=2"
+    alt="Top languages by commits"
+  />
 </p>
+
+<!-- Stats and productive time -->
+
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayush-khatrii&theme=github_dark&animation=sequence&duration=2"
+    alt="GitHub stats"
+  />
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayush-khatrii&theme=github_dark&animation=sequence&duration=2&timeZone=Asia%2FKolkata"
+    alt="Commit activity by hour in Indian Standard Time"
+  />
+</p>
+
+<!-- FOOTER -->
 
 <p align="center">
   <img
